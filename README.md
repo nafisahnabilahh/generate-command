@@ -11,7 +11,7 @@ I needed to slice **hundreds of videos** to compare **end-to-end latency** of me
 
 This process was:
 - **Slow** and repetitive.
-- **Frustrating**, because I often made **typing mistakes**—like accidentally deleting a character or pasting in the wrong spot.
+- **Frustrating**, because I often made **typing mistakes** like accidentally deleting a character or pasting in the wrong spot.
 - **Error-prone**, especially when I was tired or working quickly.
 
 Even a small mistake could break the command, forcing me to check everything again.
@@ -23,7 +23,7 @@ So, I created this Python program to make my work faster and safer:
 - It works even if the videos are in **different folders**.
 - I can choose to **run the commands immediately** or just **copy them easily** without worrying about formatting errors.
 
-### Why slice videos?
+### Purpose slicing video?
 Slicing lets me cut out just the important parts of a video (e.g. the moment a message appears) to measure delays across different apps. It’s a key step when testing and comparing **latency** during performance analysis.
 
 
